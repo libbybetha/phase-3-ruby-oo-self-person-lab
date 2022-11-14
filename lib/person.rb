@@ -26,7 +26,7 @@ class Person
           elsif num < 0
              0
           else
-            numgit 
+            num
           end
         end
   
